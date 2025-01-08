@@ -12,11 +12,11 @@
 
 ### 🔧 Technologies & Tools
 
-- **Languages:** Python, Java, C#, and SQL
+- **Languages:** Python, Java, C#, R, and SQL
 - **Tools & Platforms:** Docker, Git, TrueNAS
 - **Operating Systems:** Windows, Ubuntu Desktop, Ubuntu Server, Garuda Linux, ZorinOS
 - **Cloud:** Azure
-- **Data Management:** PowerBI
+- **Data Management:** PowerBI, RStudio
 
 ---
 
