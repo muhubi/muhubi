@@ -23,10 +23,6 @@
 ### 📫 How to Reach Me
 [LinkedIn](https://www.linkedin.com/in/abmahabee/) | [Email](mailto:andrew.mahabee@proton.me) | [Twitter](https://x.com/muhubi) | [Personal Git Server](https://git.muhubiserver.com/muhubi)
 
----
-
-Thanks for visiting my profile! 😊
-
 <!---
 muhubi/muhubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
