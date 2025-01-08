@@ -1,8 +1,8 @@
 # Hi there, I'm Andrew! 👋
 
-### Full-time Field Service Engineer at BD | Master's in Data Analytics student | Coding and DB Self-Learner | Homelab Enthusiast
+### Field Service Engineer | Master's in Data Analytics Candidate | Coding & DB Self-Learner | Homelab Enthusiast
 
-- **Field Service Engineer:** I perform onsite hardware repair and remote software troubleshooting of critical hospital medical equipment
+- **Field Service Engineer:** I work at BD performing onsite hardware repair and remote software troubleshooting of critical hospital medical equipment
 - **Master's in Data Analytics:** I am currently pursuing my degree at Southern New Hampshire University Online in hopes of furthering my data analytical skills
 - **Self Learning Coder:** I have taken online certificates in Python and Java from [Codecademeny](https://www.codecademy.com/profiles/muhubi), and am currently learning C# and SQL.
 - **Self Learning DB Administrator:** I am currently on a learning path from [Microsoft Learn](https://learn.microsoft.com/en-us/users/abmahabee/transcript) to build and develop my skills as a Database Administrator
