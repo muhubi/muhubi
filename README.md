@@ -21,11 +21,7 @@
 ---
 
 ### 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/abmahabee/)
-- [Email](mailto:andrew.mahabee@proton.me)
-- [Twitter](https://x.com/muhubi)
-- [Personal Blog or Portfolio](https://git.muhubiserver.com/muhubi)
+[LinkedIn](https://www.linkedin.com/in/abmahabee/) | [Email](mailto:andrew.mahabee@proton.me) | [Twitter](https://x.com/muhubi) | [Personal Git Server](https://git.muhubiserver.com/muhubi)
 
 ---
 
